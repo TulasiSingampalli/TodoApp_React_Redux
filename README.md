@@ -28,7 +28,7 @@ Contributions are welcome! If you find any issues or want to contribute to the p
 The Todo App was built as a learning project.
 This project is also available on CodeSandbox, allowing you to explore and interact with the application directly in your browser without having to set up a local development environment. Follow the steps below to access the project on CodeSandbox:
 
-1. Visit the [Advice React App on CodeSandbox](https://codesandbox.io/s/todoapp-react-redux-sdpwie) 
+1. Visit the [Todo React App on CodeSandbox](https://codesandbox.io/s/todoapp-react-redux-sdpwie) 
 
 2. Once the CodeSandbox loads, you will see the project's file structure and code files.
 
